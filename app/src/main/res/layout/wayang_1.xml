@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgpolos"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/jawa"
+        android:paddingTop="80dp"
+        android:text="YUDHISTIRA"
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="40dp" />
+
+    <ImageView
+        android:layout_width="221dp"
+        android:layout_height="222dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/yudistira"
+        app:srcCompat="@drawable/yudistira" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/arialrounded"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="Putra tertua Pandu Dewanata ini adalah seorang raja dari kerajaan Hastinapura.
+Dia digambarkan sebagai seorang yang sabar, berhati suci dan selalu menegakkan kebenaran.
+Dalam pewayangan Jawa, Yudistira memiliki kesaktian atau kemampuan batin,
+misalnya ia pernah dikisahkan mampu menjinakkan kewan-hewan buas di hutan Wanamarta hanya dengan meraba kepala mereka. "
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>

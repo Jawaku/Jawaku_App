@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpolos"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TEMBANG MACAPAT"
+            android:fontFamily="@font/jawa"
+            android:textColor="#7F5539"
+            android:textSize="40dp"
+            android:textAlignment="center"
+            android:paddingTop="30dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Macapat (bahasa Jawa: ꦩꦕꦥꦠ꧀) adalah tembang atau puisi
+tradisional Jawa. Setiap bait macapat mempunyai baris
+kalimat yang disebut gatra, dan setiap gatra mempunyai
+sejumlah suku kata (guru wilangan) tertentu, dan berakhir
+pada bunyi sajak akhir yang disebut guru lagu. Tembang
+Macapat terdiri dari Maskumambang, Mijil, Sinom, Kinanthi ,
+Asmarandana, Gambuh, Dhandhanggula, Durma, Pangkur,
+Megatruh, lan Pucung. Berikut beberapa contoh tembang
+macapat"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="15sp"
+            android:textColor="#7F5539"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"/>
+
+        <ImageView
+            android:layout_width="319dp"
+            android:layout_height="240dp"
+            android:src="@drawable/sinom"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <ImageView
+            android:layout_width="319dp"
+            android:layout_height="240dp"
+            android:src="@drawable/maskumambang"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <ImageView
+            android:layout_width="319dp"
+            android:layout_height="240dp"
+            android:src="@drawable/mijil"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

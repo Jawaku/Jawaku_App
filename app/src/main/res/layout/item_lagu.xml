@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg2"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAGU TRADISIONAL"
+        android:fontFamily="@font/jawa"
+        android:textColor="#7F5539"
+        android:textSize="48dp"
+        android:textAlignment="center"
+        android:paddingTop="60dp"/>
+
+
+    <Button
+        android:id="@+id/btn_lagu1"
+        android:text="TEMBANG MACAPAT"
+        android:textSize="22sp"
+        android:textColor="#7F5539"
+        android:fontFamily="@font/arialrounded"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/button"
+        android:layout_marginTop="50dp"
+        tools:ignore="MissingConstraints"
+        android:elevation="60dp"
+        android:outlineSpotShadowColor="#7F5539"/>
+
+    <Button
+        android:id="@+id/btn_lagu2"
+        android:text="TEMBANG DOLANAN"
+        android:textSize="22sp"
+        android:textColor="#7F5539"
+        android:fontFamily="@font/arialrounded"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/button"
+        android:layout_marginTop="30dp"
+        tools:ignore="MissingConstraints"
+        android:elevation="60dp"
+        android:outlineSpotShadowColor="#7F5539"/>
+\
+
+
+</LinearLayout>

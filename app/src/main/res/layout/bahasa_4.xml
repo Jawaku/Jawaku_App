@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpolos">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:alignmentMode="alignMargins"
+        android:columnCount="3"
+        android:rowCount="3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NGOKO ALUS"
+            android:fontFamily="@font/jawa"
+            android:textColor="#7F5539"
+            android:textSize="40dp"
+            android:textAlignment="center"
+            android:paddingTop="40dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="347dp"
+            android:layout_height="276dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="50dp"
+            app:cardBackgroundColor="#FAF6EF"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="25dp">
+
+
+            <TextView
+                android:layout_width="309dp"
+                android:layout_height="247dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/arialrounded"
+                android:text="@string/ngoko_alus"
+                android:textColor="#7F5539"
+                android:textSize="18sp" />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="347dp"
+            android:layout_height="235dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="390dp"
+            android:layout_marginBottom="50dp"
+            app:cardBackgroundColor="#FAF6EF"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="25dp">
+
+
+            <TextView
+                android:layout_width="309dp"
+                android:layout_height="209dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/arialrounded"
+                android:text="@string/ngoko_alus2"
+                android:textColor="#7F5539"
+                android:textSize="18sp" />
+        </androidx.cardview.widget.CardView>
+
+
+    </FrameLayout>
+</ScrollView>

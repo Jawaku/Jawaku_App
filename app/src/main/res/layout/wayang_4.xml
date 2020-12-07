@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgpolos"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/jawa"
+        android:paddingTop="80dp"
+        android:text="NAKULA"
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="40dp" />
+
+    <ImageView
+        android:layout_width="221dp"
+        android:layout_height="222dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/nakula"
+        app:srcCompat="@drawable/nakula" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/arialrounded"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="Saudara kembar dari Sadewa ini digambarkan sebagai sosok
+yang memilki ketampanan dan pintar dalam merawat kuda dan ahli dalam astrologi.
+Pada pewayangan Jawa, Nakula merupakan titisan dari seorang dewa tabib bernama Batara Aswin.
+Nakula pandai menaiki kuda serta memilki kemampuan pada senjata lembing."
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>

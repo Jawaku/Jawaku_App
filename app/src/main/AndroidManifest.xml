@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.budayajawa">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HighestScoreActivity"></activity>
+        <activity android:name=".QuizActivity"></activity>
+        <activity android:name=".Wayang6"></activity>
+        <activity android:name=".AboutUs" />
+        <activity android:name=".Wayang5" />
+        <activity android:name=".Wayang4" />
+        <activity android:name=".Wayang3" />
+        <activity android:name=".Wayang2" />
+        <activity android:name=".Wayang1" />
+        <activity android:name=".MenuWayang" />
+        <activity android:name=".Lagu2" />
+        <activity android:name=".Lagu1" />
+        <activity android:name=".MenuLagu" />
+        <activity android:name=".Bahasa4" />
+        <activity android:name=".Bahasa3" />
+        <activity android:name=".Bahasa2" />
+        <activity android:name=".Bahasa1" />
+        <activity android:name=".MenuBahasa" />
+        <activity android:name=".MenuAksara" />
+        <activity android:name=".Aksara3" />
+        <activity android:name=".Aksara2" />
+        <activity android:name=".Aksara1" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

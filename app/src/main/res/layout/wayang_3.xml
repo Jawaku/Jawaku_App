@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgpolos"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/jawa"
+        android:paddingTop="80dp"
+        android:text="ARJUNA"
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="40dp" />
+
+    <ImageView
+        android:layout_width="221dp"
+        android:layout_height="222dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/arjuna"
+        app:srcCompat="@drawable/arjuna" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/arialrounded"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="Arjuna merupakan putra ke-3 Prabu Pandu Dewanata dan adik dari Bima.
+Dia dikenal sebagai pria tampan dan memiliki ajian naracabala.
+Dengan ajian ini anak panah yang dia lepaskan bisa menjadi berlipat-lipat untuk mengejar musuh.
+Ada dua panah terkenal yang dia miliki yakni Ardadedali dan Pasopati."
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>

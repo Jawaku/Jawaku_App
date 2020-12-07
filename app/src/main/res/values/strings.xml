@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Jawaku</string>
+    <string name="krama_lugu">Krama Lugu adalah ragam pemakaian bahasa jawa yang
+ seluruh kalimatnya dengan leksikon krama, afiksnya juga
+menggunakan bentuk krama, Krama lugu digunakan oleh
+peserta tutur yang belum atau tidak akrab, misalnya baru
+kenal. Kaidah pembentukan krama lugu sebagai berikut :
+    </string>
+    <string name="krama_lugu2">
+    <br>1. Leksikon ngoko yang memiliki padanan dalam leksikon
+krama, maka diubah menjadi leksikon krama, kecuali yang
+tidak memiliki leksikon krama, maka tetap menggunakan
+leksikon ngoko.\n</br>
+        <br>2. Leksikon ngoko yang berhubungan dengan diri pribadi
+seandainya memiliki padanan dalam leksikon krama maka
+diubah menjadi kramai.
+\n</br>
+        <br>3. Afiks ngoko diubah menjadi krama\n</br>
+        <br>4. Leksikon yang berhubungan dengan hewan, tumbuh-
+tumbuhan yang memiliki leksikon krama diubah menjadi
+krama.\n</br>
+    </string>
+
+    <string name="krama_lugu3">
+
+        <br>Pemakaian basa krama lugu dalam percakapan yaitu :\n</br>
+        <br>1. Orang tua kepada orang yang lebih muda karena kalah
+     pangkat atau kedudukan\n</br>
+        <br>2. Orang yang baru bertemu\n</br>
+        <br>3. Siswa kepada gurunya
+\n</br>
+        <br>4. Asisten rumah tangga kepada majikan
+\n</br>
+        <br>5. Pegawai kepada atasan
+\n</br>
+        <br>1. Sampeyan sampun nedha, Pak?
+    = Anda sudah makan, Pak?
+\n</br>
+        <br>2. Sekedhap malih kula kesah dhateng peken
+    = sebentar lagi saya pergi ke pasar\n</br>
+        <br>3. Sampeyan napa sampun wangul saking kantor Mas?
+     = kamu apa sudah pulang dari kantor mas?\n</br>
+</string>
+
+    <string name="krama_alus">
+        Ragam krama alus adalah bentuk unggah - ungguh bahasa
+jawa yang semua kosakatanya terdiri ,atas leksikon krama,
+krama inggil dan krama andhap. Meskipun begitu yang
+menjadi leksikon inti adalah leksikon yang berbentuk krama.
+leksikon madya, dan ngoko tidak pernah muncul di dalam
+tingkat tutur krama alus.Hadiwijaya dan Supriya
+menjelaskan tentang kaidah pembentukan ragam krama
+alus, sebagai berikut :
+    </string>
+
+    <string name="krama_alus2">
+
+        <br>1. Leksikon ngoko yang memiliki padanan krama inggil maka
+    diubah menjadi krama inggil , kecuali yang berhubungan
+    dengan diri pribadi tetap menggunakan krama\n</br>
+        <br>2. Apabila leksikon ngoko tidak memiliki padanan dalam
+     leksikon krama inggil, tetapi hanya memiliki padanan
+     dalam leksikon krama, maka diubah menjadi krama saja.
+3\n</br>
+        <br>3. Apabila leksikon ngoko tidak memiliki padanan dalam
+    leksikon krama inggil atau krama, maka yang dipakai
+    adalah leksikon ngoko.
+\n</br>
+        <br>4. Semua afiks diubah menjadi krama. Misalnya di- menjadi
+     dipun-. Akhiran e- menjadi -ipun\n</br>
+    </string>
+
+    <string name="krama_alus3">
+
+        <br>Penggunaan basa krama alus adalah sebagai berikut :
+\n</br>
+        <br>1. Orang yang usianya muda kepada orang tua
+\n</br>
+        <br>2. Siswa kepada gurunya
+\n</br>
+        <br>3. Pegawai kepada atasan
+\n</br>
+        <br>4. teman yang tidak akrab
+\n</br>
+        <br>Contoh penerapan karma alus
+\n</br>
+        <br>1. Ibu sampun dhangan saking gerah ipun = ibu sudah sembuh dari sakitnya
+\n</br>
+        <br>2. Rikmanipun eyang sampun pethak sedaya = rambuntnya nenek sudah putih semua
+\n</br>
+        <br>3. Bu Ema mboten kersa dhahar pelem amargi kagungan gerah maag = Bu Ema tidak mau makan mangga karena punya penyakit maag
+\n</br>
+
+
+    </string>
+    <string name="ngoko_lugu">
+        Ngoko lugu adalah ragam pemakaian bahasa jawa yang
+seluruh kalimatnya dibentuk dengan kosa kata ngoko
+(termasuk kosakata netral). Afiksnya (imbuhan) juga tetap
+menggunakan afiks ngoko. Ragam ini digunakan oleh
+peserta tutur yang mempunyai hubungan akrab dan tidak
+ada usaha saling menghormati, seumuran, juga dipakai
+oleh orang tua kepada anak, namun tidak berlaku
+sebaliknya.Selain itu secara umum dipakai oleh orang
+yang lebih tua kepada orang yang lebih muda
+
+    </string>
+
+    <string name="ngoko_lugu2">
+
+<br>Contoh penggunaan\n</br>
+        <br>1.Jaka mangan sate = Jaka makan sate\n</br>
+        <br>2. Iwan lagi ados = Iwan sedang mandi\n</br>
+        <br>3. Aku wis tuku buku basa jawa = Aku sudah beli buku bahasa jawa\n</br>
+        <br>4. Adhek mangan tahu\n</br>
+        <br>5. Toni seneng maca koran = Toni senang membaca koran</br>
+    </string>
+
+    <string name="ngoko_alus">
+        Ngoko alus adalah ragam pemakaian bahasa jawa yang
+dasarnya adalah leksikon ngoko (termasuk leksikon netral),
+namun juga menggunakan leksikon krama inggil, dan atau
+krama andhap. Ragam ngoko alus digunakan oleh peserta
+tutur yang mempunyai hubungan akrab, tetapi diantara
+mereka ada usaha untuk saling menghormati  Afiks yang
+digunakan adalah afiks ngoko, kecuali awalan kok-, dan
+akhiran -mu. Awalan kok- dan akhiran -mu diganti dengan
+kata panjenengan.
+
+    </string>
+
+    <string name="ngoko_alus2">
+        <br>Contoh kalimat yang menggunakan ragam ngoko alus dapat dilihat di bawah ini\n</br>
+        <br>1. Pakdhe mengko arep tindak karo sopo? = Pakdhe nanti mau pergi dengan siapa?\n</br>
+        <br>2. Bapak dhahar bakso = Bapak makan bakso\n</br>
+        <br>3. Pak lurah sing anyar iku asmane sapa? = pak lurah yang baru itu namanya siapa?\n</br>
+
+    </string>
+
+    <string name="Jawaku">
+        Jawaku adalah aplikasi edukasi mengenai kebudayaan Jawa, di antaranya yaitu Pewayangan, Aksara Jawa, Bahasa Jawa, dan Tetembangan (Lagu Jawa).
+Pengguna dapat menikmati aplikasi ini dengan nyaman, adanya alunan lagu dolanan. Selain itu, pengguna dapat mengasah kemampuan setelah mempelajari materi melalui quiz.
+
+
+    </string>
+</resources>

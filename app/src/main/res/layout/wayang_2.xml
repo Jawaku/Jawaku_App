@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgpolos"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/jawa"
+        android:paddingTop="80dp"
+        android:text="BIMA"
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="40dp" />
+
+    <ImageView
+        android:layout_width="221dp"
+        android:layout_height="222dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/bima"
+        app:srcCompat="@drawable/bima" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/arialrounded"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="Bima adalah putra ke-2 dari Prabu Pandu Dewanata, raja Astinapura dan Dewi Kunti.
+Bima digambarkan sebagai sosok yang memiliki karakter sebagai seorang ksatria ideal.
+Bima adalah wujud dari seorang petarung dengan tubuh tinggi besar, berotot, dan atletis.
+Dia memilki senjata bernama Gada Rujakpolo dan sebuah kapak besar bernama Bergawa."
+        android:textAlignment="center"
+        android:textColor="#7F5539"
+        android:textSize="18sp" />
+
+
+
+</LinearLayout>

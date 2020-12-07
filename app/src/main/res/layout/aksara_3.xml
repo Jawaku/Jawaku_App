@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgpolos">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONTOH KALIMAT"
+        android:fontFamily="@font/jawa"
+        android:textColor="#7F5539"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:paddingTop="50dp"
+        tools:ignore="MissingConstraints" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="252dp"
+            android:layout_height="182dp"
+            android:src="@drawable/contoh1"
+            android:layout_gravity="center"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="-140dp"/>
+
+        <ImageView
+            android:layout_width="252dp"
+            android:layout_height="132dp"
+            android:src="@drawable/contoh2"
+            android:layout_marginLeft="-250dp"
+            android:layout_marginTop="350dp"/>
+
+        <ImageView
+            android:layout_width="252dp"
+            android:layout_height="182dp"
+            android:src="@drawable/contoh3"
+            android:layout_marginLeft="-255dp"
+            android:layout_marginTop="520dp"
+
+/>    </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>

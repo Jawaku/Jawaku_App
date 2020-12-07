@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpolos"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AKSARA"
+        android:fontFamily="@font/jawa"
+        android:textColor="#7F5539"
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:paddingTop="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.AKSARA CARAKAN"
+        android:fontFamily="@font/arialrounded"
+        android:textSize="20sp"
+        android:textColor="#7F5539"
+        android:paddingTop="15dp"
+        android:paddingLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="250dp"
+            android:src="@drawable/aksarajawa"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Aksara Carakan merupakan jenis aksara yang paling
+mendasar dalam mempelajari aksara Jawa. Jika disaksikan
+dari namanya saja sudah bisa dipahami bahwa jenis aksara
+ini adalah untuk menuliskan kata-kata."
+                android:fontFamily="@font/arialrounded"
+                android:textSize="15sp"
+                android:textColor="#7F5539"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"/>
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2.AKSARA PASANGAN"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="20sp"
+            android:textColor="#7F5539"
+            android:paddingTop="25dp"
+            android:paddingLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="250dp"
+            android:src="@drawable/pasangan"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pasangan sendiri merupakan bentuk khusus yang terdapat
+pada aksara Jawa untuk menghilangkan ataupun mematikan
+suatu vokal dari bentuk aksara yang sebelumnya. Aksara
+pasangan ini akan digunakan untuk menulis bentuk suku
+kata yang di dalamnya tidak ada vokal."
+            android:fontFamily="@font/arialrounded"
+            android:textSize="15sp"
+            android:textColor="#7F5539"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"/>
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.AKSARA SWARA"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="20sp"
+            android:textColor="#7F5539"
+            android:paddingTop="25dp"
+            android:paddingLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="255dp"
+            android:layout_height="108dp"
+            android:src="@drawable/aksaraswara"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aksara Swara merupakan jenis aksara yang digunakan
+untuk menuliskan jenis huruf vokal yang berasal dari
+bentuk kata serapan dari bahasa asing supaya pelafalannya
+menjadi lebih tegas."
+            android:fontFamily="@font/arialrounded"
+            android:textSize="15sp"
+            android:textColor="#7F5539"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"/>
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4.SANDANGAN"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="20sp"
+            android:textColor="#7F5539"
+            android:paddingTop="25dp"
+            android:paddingLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="115dp"
+            android:layout_height="175dp"
+            android:src="@drawable/sandangan"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sandangan merupakan bentuk huruf vokal yang tidak
+mandiri dan digunakan ketika berada di bagian tengah dari
+kata. Sedanghkan di dalam sandangan akan dibedakan
+berdasar pada cara membacanya.Untuk aksara Swara
+ini juga tidak sama dengan jenis aksara-aksara yang lain.
+Ia juga dilengkapi dengan pasangan. Aksara Swara juga
+memiliki beberapa aturan penulisan yang penting untuk
+diperhatikan. Berikut rinciannya:
+a. Aksara Swara tidak bisa dijadikan sebagai bentuk
+     aksara pasangan.
+b. Apabila aksara Swara menemukan sigegan atau
+konsonan yang ada pada akhir suku kata yang
+sebelumnya, maka sigegan itu harus dimatikan dengan
+yang namanya pangkon.
+c. Aksara Swara bisa diberikan suatu sandangan
+wignyan, cecak, wulu, suku, dan lain sebagainya.
+"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="15sp"
+            android:textColor="#7F5539"
+            android:textAlignment="center"
+            android:layout_marginTop="15dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. ANGKA JAWA"
+            android:fontFamily="@font/arialrounded"
+            android:textSize="20sp"
+            android:textColor="#7F5539"
+            android:paddingTop="25dp"
+            android:paddingLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="255dp"
+            android:layout_height="108dp"
+            android:src="@drawable/angka"
+            android:layout_gravity="center"
+            android:paddingBottom="20dp"
+            android:layout_marginTop="15dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
