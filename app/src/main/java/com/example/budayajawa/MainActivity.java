@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
         //Memanggil file my_sound pada folder raw
-        audioBackground = MediaPlayer.create(this, R.raw.ilirilir);
+        audioBackground = MediaPlayer.create(this, R.raw.backsound);
         //Set looping ke true untuk mengulang audio jika telah selesai
         audioBackground.setLooping(true);
         //Set volume audio agar berbunyi
